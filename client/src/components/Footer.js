@@ -49,7 +49,7 @@ function Footer(){
               target='_blank'
               aria-label='Instagram'
             >
-              <i class='fab fa-instagram' />
+              <i className='fab fa-instagram' />
             </Link>
             <Link
               className='social-icon-link youtube'
@@ -57,7 +57,7 @@ function Footer(){
               target='_blank'
               aria-label='Youtube'
             >
-              <i class='fab fa-youtube' />
+              <i className='fab fa-youtube' />
             </Link>
             <Link
               className='social-icon-link twitter'
@@ -65,7 +65,7 @@ function Footer(){
               target='_blank'
               aria-label='Twitter'
             >
-              <i class='fab fa-twitter' />
+              <i className='fab fa-twitter' />
             </Link>
             <Link
               className='social-icon-link twitter'
