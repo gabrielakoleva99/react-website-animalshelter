@@ -1,0 +1,64 @@
+  
+  .animal-container{
+    width: 950px;
+    height: 420px;
+    background-color: transparent;
+    margin: 10px;
+    padding: 10px;
+    overflow: hidden;
+    
+  }
+  
+  .animal-image-container{
+    position: relative;
+    width: 300px;
+    height: 300px;
+    float: right;
+    margin: 10px;
+    margin-right: 5px;
+ padding: 0 0 20px 20px;
+  }
+
+  .animal-image {
+    display:block;
+    position: relative;
+    width: 300px;
+    height: 300px;
+    float: right;
+    margin: 10px;
+    margin-right: 5px;
+ padding: 0 0 20px 20px;
+
+  }
+
+  .animal-information{
+    width: 600px;
+    height: 500px;
+    background-color: #f2f2f2;
+    margin: 10px;
+    padding: 10px;
+  }
+  
+  .animal-type,
+  .animal-age,
+  .animal-sex,
+  .animal-size,
+  .animal-description {
+    font-size: 14px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    text-align: left;
+
+  }
+
+  .animals-get button{
+    margin-top: 1rem;
+    margin-right: 1rem;
+    background: indianred;
+    color: #fff;
+    border: 0;
+    padding: 8px;
+    border-radius: 8px;
+    cursor: pointer;
+  }
+  

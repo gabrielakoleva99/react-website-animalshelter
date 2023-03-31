@@ -1,0 +1,21 @@
+.thanks-container{
+    margin-top: 5rem;
+    text-align: center;
+    
+
+}
+
+p{
+    margin-top: 3rem;
+    text-align: center;
+}
+
+.thanks-pic{
+    object-fit: contain;
+    width: 600px;
+    height: 300px;
+    position:absolute;
+    margin-left: -300px; 
+    left:50%;
+    bottom:0px;
+}

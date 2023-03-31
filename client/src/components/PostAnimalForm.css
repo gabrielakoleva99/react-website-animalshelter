@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+
+
+.postAnimal-hero{
+    background-image: url('../images/adopt2.jpg');
+    background-color: #cccccc; 
+    height: 900px; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+    padding: 100px;
+    
+}
+
+.postAnimal-form {
+ 
+    max-width: 400px;
+  margin: 0 auto;
+  text-align: center;
+  padding: 1rem;
+  margin-bottom: 4rem;
+  background-color: #fff;
+  
+}
+
+.postAnimal-form form {
+    padding: 3rem;
+    background: #fff;
+    text-align: center;
+    background-position: center;
+}
+
+.postAnimal-form label {
+  text-align: left;
+  display: block;
+}
+.postAnimal-form h1 {
+  font-size: 20px;
+  color:indianred;
+  margin-bottom: 30px;
+}
+.postAnimal-form input, .postAnimal-form textarea, .postAnimal-form select {
+  width: 100%;
+  padding: 6px 10px;
+  margin: 10px 0;
+  border: 1px solid #ddd;
+  box-sizing: border-box;
+  display: block;
+}
+.postAnimal-form button {
+  background: indianred;
+  color: #fff;
+  border: 0;
+  padding: 8px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.animals{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  width: 100%;
+}
+
+.animals button{
+  background: indianred;
+  color: #fff;
+  border: 0;
+  padding: 8px;
+  border-radius: 8px;
+  cursor: pointer;
+}

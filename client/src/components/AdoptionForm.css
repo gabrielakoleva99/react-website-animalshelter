@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+
+.adoption-form {
+  max-width: 400px;
+  margin: 0 auto;
+  text-align: center;
+  padding: 4rem;
+  margin-bottom: 4rem;
+  background-color: #fff;
+}
+
+.adoption-form form{
+    padding: 3rem;
+    background: #fff;
+}
+
+.adoption-form label {
+  text-align: left;
+  display: block;
+}
+.adoption-form h1 {
+  font-size: 20px;
+  color:indianred;
+  margin-bottom: 30px;
+}
+.adoption-form input, .adoption-form textarea, .adoption-form select {
+  width: 100%;
+  padding: 6px 10px;
+  margin: 10px 0;
+  border: 1px solid #ddd;
+  box-sizing: border-box;
+  display: block;
+}
+.adoption-form button {
+  background: indianred;
+  color: #fff;
+  border: 0;
+  padding: 8px;
+  border-radius: 8px;
+  cursor: pointer;
+}
